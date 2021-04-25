@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274297627594",
+    "project_id": "salemeurope-4efb9",
+    "storage_bucket": "salemeurope-4efb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274297627594:android:e2268ae97f484d90386533",
+        "android_client_info": {
+          "package_name": "com.salem.SalemEurope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274297627594-5326m6vebe5o9kfbf7634ggcg0joq2m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnpjMTNgTI49F3PActQwcBP4BWntgtp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274297627594-5326m6vebe5o9kfbf7634ggcg0joq2m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
